@@ -14,6 +14,7 @@ This Script allows authorized personnel to send cell broadcast alerts to all pla
 4. Make sure you have the following dependencies installed:
    - [QBCore](https://docs.qbcore.org/qbcore-documentation)
    - [Interact Sounds](https://github.com/plunkettscott/interact-sound)
+5. Copy the Sound Effects found in the `INSTALL` folder to `interact-sound/client/html/sounds`.
 
 ### Configuration Table
 
